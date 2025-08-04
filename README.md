@@ -6,8 +6,7 @@ JARVIS is a smart AI assistant designed to respond to voice commands and assist 
 ---
 
 ## Project Structure
-- Ensure all files are located in the `Smart_Assistant` directory.
-- It is recommended to create a virtual environment for the project (optional but preferred).
+- Ensure all files are located in the `Jarvis_Assistant` directory.
 - Create a `.env` file to store your API key. Copy the last line from the `.gitignore` file into the `.env` file and replace `REPLACE_WITH_YOUR_API_KEY` with your actual API key.
 
 ---
@@ -43,3 +42,4 @@ JARVIS is a smart AI assistant designed to respond to voice commands and assist 
 ## Notes
 - Ensure your microphone is properly configured for voice input.
 - For any issues, check the dependencies and ensure the `.env` file is correctly set up.
+
