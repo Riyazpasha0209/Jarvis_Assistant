@@ -1,0 +1,9 @@
+__pycache__/
+
+.venv
+
+#Create a file with name ".env"
+.env
+
+# Paste this in the above (.env) file 
+GEMINI_API_KEY = REPLACE_WITH_YOUR_API_KEY
